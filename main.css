@@ -1,0 +1,30 @@
+.testbox {
+height: 200px;
+width: 200px;
+margin: auto
+    
+}
+
+.testbox {
+height: 400px;
+width: 500px;
+background-color: crimson;
+border-style: dashed; 
+border-radius: 12px;
+border-color: darkblue;
+}
+
+.button {
+  color: aquamarine;
+  border-style: groove;
+  border-color: blueviolet;
+  margin-left: 45%;
+}
+
+.btn  {
+  border: 10px; 
+  color:rgb(238, 255, 0); 
+  background-color: brown;
+  padding: 14px 28px; 
+  cursor:progress; 
+}
